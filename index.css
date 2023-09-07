@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(56, 44, 109)
+    }
+    #header
+    {
+        background-color: black;
+        color:red;
+        padding:15px
+    }
+    #landing-page
+    {
+        background-color:brown;
+        margin: top 5%;
+        padding:5%
+    }
+    #images
+    {
+        background-color: blue;
+    }
